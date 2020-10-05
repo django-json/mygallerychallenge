@@ -7,8 +7,6 @@
 	--fs-md: 18px;
 	--fs-lg: 24px;
 
-	--lh-xxs: 12px;
-	--lh-xs: 15px;
 	--lh-sm: 17px;
 	--lh-md: 22px;
 	--lh-lg: 29px;
@@ -44,6 +42,9 @@ body {
 .link {
 	text-decoration: none;
 	color: var(--grey);
+}
+.link:hover {
+	text-decoration: underline;
 }
 .span {
 	color: var(--grey);
