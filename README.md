@@ -38,8 +38,6 @@
 
 ![mygalleryscreenshot](https://user-images.githubusercontent.com/44185999/95039967-d46b5680-0704-11eb-9928-5750b9ed9302.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - You can check the demo [here](https://mygallerychallenge.netlify.app).
 - This challenge is fun. It tested my CSS skills more on using CSS Grid. Overall, I just loved this challenge.
 
